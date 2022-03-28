@@ -13,5 +13,6 @@
 #### Why is Test Setup Difficult?
 
 - Getting Mocha to work in the browser instead of nodejs.
+- [Chai Assertion Styles](https://www.chaijs.com/guide/styles/#differences)
 
 &nbsp;

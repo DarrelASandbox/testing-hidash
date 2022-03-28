@@ -10,4 +10,8 @@
 
 ## Notes
 
+#### Why is Test Setup Difficult?
+
+- Getting Mocha to work in the browser instead of nodejs.
+
 &nbsp;

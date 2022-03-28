@@ -1,0 +1,23 @@
+{
+  "name": "hidash",
+  "version": "1.0.0",
+  "description": "- The Modern Javascript Bootcamp Course (2022) - The most up-to-date JS resource online! Master Javascript by building a beautiful portfolio of projects! - Tutorial for hidash (testing) - [Colt Steele](https://github.com/Colt) - [Stephen Grider](https://github.com/StephenGrider)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarrelASandbox/testing-hidash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarrelASandbox/testing-hidash/issues"
+  },
+  "homepage": "https://github.com/DarrelASandbox/testing-hidash#readme",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  }
+}
